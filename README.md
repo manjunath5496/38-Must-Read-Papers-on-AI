@@ -2,78 +2,73 @@
 
 <ul>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(1).pdf" style="text-decoration:none;">Unsupervised Cross-Domain Image Generation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(1).pdf" style="text-decoration:none;">A New Method for Solving Hard Satisfiability Problems</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(2).pdf" style="text-decoration:none;">Invertible Conditional GANs for image editing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(2).pdf" style="text-decoration:none;">Neural Message Passing for Quantum Chemistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(3).pdf" style="text-decoration:none;">Image-to-Image Translation with Conditional Adversarial Networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(4).pdf" style="text-decoration:none;">Unsupervised Image-to-Image Translation Networks</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(5).pdf" style="text-decoration:none;">Learning to Discover Cross-Domain Relations with Generative Adversarial Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(6).pdf" style="text-decoration:none;">Unpaired Image-to-Image Translation
-using Cycle-Consistent Adversarial Networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(7).pdf" style="text-decoration:none;">DualGAN: Unsupervised Dual Learning for Image-to-Image Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(3).pdf" style="text-decoration:none;">Algorithm and Tool for Automated Ontology Merging and Alignment</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(4).pdf" style="text-decoration:none;">Content-Boosted Collaborative Filtering for Improved Recommendations</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(5).pdf" style="text-decoration:none;">D* Lite</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(6).pdf" style="text-decoration:none;">QUICKXPLAIN: Preferred Explanations and Relaxations for Over-Constrained Problems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(7).pdf" style="text-decoration:none;">RI: an Expert in the Computer Systems Domain </a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(8).pdf" style="text-decoration:none;"> Attribute-Guided Face Generation Using Conditional CycleGAN</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(8).pdf" style="text-decoration:none;"> Reverend bayes on inference engines: a distributed hierarchical approach</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(9).pdf" style="text-decoration:none;">
-One-Sided Unsupervised Domain Mapping </a></li>
+A Variational Approach To Edge Detection </a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(10).pdf" style="text-decoration:none;">TextureGAN: Controlling Deep Image Synthesis with Texture Patches </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(11).pdf" style="text-decoration:none;">Semantic Image Synthesis via Adversarial Learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(12).pdf" style="text-decoration:none;">Generative Semantic Manipulation with Contrasting GAN</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(13).pdf" style="text-decoration:none;">Triangle Generative Adversarial Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(10).pdf" style="text-decoration:none;">A Theory of Action for MultiAgent Planning </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(11).pdf" style="text-decoration:none;">The Tractability of Subsumption in Frame-Based Description Languages</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(12).pdf" style="text-decoration:none;">A Logic of Implicit and Explicit Belief</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(13).pdf" style="text-decoration:none;">Default geasoning, Nonmonotonic Logics, and the Frame Problem</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(14).pdf" style="text-decoration:none;">XGAN: Unsupervised Image-to-Image
-Translation for Many-to-Many Mappings</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(14).pdf" style="text-decoration:none;">Real-Time Heuristic Search: First Results</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(15).pdf" style="text-decoration:none;">Image Generation from Sketch Constraint Using Contextual GAN</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(15).pdf" style="text-decoration:none;">Pengi: lementation of a Theory of Activity</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(16).pdf" style="text-decoration:none;">StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(16).pdf" style="text-decoration:none;">The Logic of Representing Dependencies by Directed Graphs</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(17).pdf" style="text-decoration:none;">AttGAN: Facial Attribute Editing by
-Only Changing What You Want</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(17).pdf" style="text-decoration:none;">
+Reactive Reasoning and Planning</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(18).pdf" style="text-decoration:none;">High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(18).pdf" style="text-decoration:none;">Solving Large-Scale Constraint Satisfaction and Scheduling Problems Using a Heuristic Repair Method</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(19).pdf" style="text-decoration:none;">Toward Multimodal Image-to-Image Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(19).pdf" style="text-decoration:none;">Systematic Nonlinear Planning</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(20).pdf" style="text-decoration:none;">Geometry Guided Adversarial Facial Expression Synthesis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(20).pdf" style="text-decoration:none;"> Hard and Easy Distribution of SAT Problems</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(21).pdf" style="text-decoration:none;">ComboGAN:
-Unrestrained Scalability for Image Domain Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(22).pdf" style="text-decoration:none;">Sparse, Smart Contours to Represent and Edit Images</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(23).pdf" style="text-decoration:none;">DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(21).pdf" style="text-decoration:none;">Automatically Constructing a Dictionary for Information Extraction Tasks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(22).pdf" style="text-decoration:none;">Learning: Interface Agents</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(23).pdf" style="text-decoration:none;">A Filtering Algorithm for Constraints of Difference in CSPs</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(24).pdf" style="text-decoration:none;">Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(24).pdf" style="text-decoration:none;">Pushing the Envelope: Planning, Propositional Logic, and Stochastic Search</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(25).pdf" style="text-decoration:none;">Attention-GAN for Object Transfiguration in Wild Images</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(26).pdf" style="text-decoration:none;">ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(27).pdf" style="text-decoration:none;">Modular Generative Adversarial Networks</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(25).pdf" style="text-decoration:none;">Statistical Parsing with a Context-free Grammar and Word Statistics</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(26).pdf" style="text-decoration:none;">Using CSP Look-Back Techniques to Solve Real-World SAT Instances</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(27).pdf" style="text-decoration:none;">The Interactive Museum Tour-Guide Robot</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(28).pdf" style="text-decoration:none;">Multimodal Unsupervised
-Image-to-Image Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(28).pdf" style="text-decoration:none;">Boosting Combinatorial Search Through Randomization</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(29).pdf" style="text-decoration:none;">Conditional Image-to-Image Translation</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(29).pdf" style="text-decoration:none;">Combining Collaborative Filtering with Personal Agents for Better Recommendations</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(30).pdf" style="text-decoration:none;">Sparsely Grouped Multi-task Generative Adversarial Networks for Facial Attribute Manipulation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(30).pdf" style="text-decoration:none;">Learning Dictionaries for Information Extraction by Multi-Level Bootstrapping</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(31).pdf" style="text-decoration:none;">Image-to-image translation for cross-domain disentanglement</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(32).pdf" style="text-decoration:none;">Exemplar Guided Unsupervised Image-to-Image Translation with Semantic Consistency</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(31).pdf" style="text-decoration:none;">Acting Optimally in Partially Observable Stochastic Domains</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(32).pdf" style="text-decoration:none;">Monte Carlo Localization: Efficient Position Estimation forMobile Robots</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(33).pdf" style="text-decoration:none;">NAM: Non-Adversarial Unsupervised Domain Mapping</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(33).pdf" style="text-decoration:none;">Quantifying Inductive Bias:
+AI Learning Algorithms and Valiant's Learning Framework</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(34).pdf" style="text-decoration:none;">Unsupervised Attention-guided
-Image-to-Image Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(34).pdf" style="text-decoration:none;">A Robust, Qualitative Method for Robot Spatial Learning</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(35).pdf" style="text-decoration:none;">Show, Attend and Translate: Unsupervised Image Translation with Self-Regularization and Attention</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(35).pdf" style="text-decoration:none;">Learning to Coordinate Behaviors</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(36).pdf" style="text-decoration:none;">Unsupervised Image-to-Image Translation with Stacked Cycle-Consistent Adversarial Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(36).pdf" style="text-decoration:none;">Estimating the Absolute Position of a Mobile Robot Using Position Probability Grids</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(37).pdf" style="text-decoration:none;">GANimation: Anatomically-aware Facial
-Animation from a Single Image</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(38).pdf" style="text-decoration:none;">Diverse Image-to-Image Translation via Disentangled Representations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(37).pdf" style="text-decoration:none;">Syskill and Webert: Identifying interesting web sites</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/38-Must-Read-Papers-on-AI/blob/master/38ai(38).pdf" style="text-decoration:none;">Composing graphical models with neural networks for structured representations and fast inference</a></li>
 </ul>
